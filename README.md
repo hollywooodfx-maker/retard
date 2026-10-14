@@ -107,9 +107,7 @@ https://img**Languages**
 
 ## 🏆 Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollywooodfx-maker&theme=tokyonight" />
