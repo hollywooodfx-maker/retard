@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я retard 👋</h1>
+<h1 align="center">Привет, я hollywooodfx-maker 👋</h1>
 <h3 align="center">Backend Developer • C • FastAPI • Databases</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
   <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 999px;" />
   </a>
-  <a href="https://github.com/retard">
+  <a href="https://github.com/hollywooodfx-maker">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 999px;" />
   </a>
   <a href="tel:+70000000000" title="Позвонить">
@@ -94,12 +94,12 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=retard&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retard&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hollywooodfx-maker&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollywooodfx-maker&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retard&theme=tokyonight&hide_border=true&border_radius=16" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hollywooodfx-maker&theme=tokyonight&hide_border=true&border_radius=16" />
 </p>
 
 ---
@@ -107,20 +107,20 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ## 🏆 Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=retard&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </p>
 
-<!-- Fallback карточки, если сервис трофеев лежит (сейчас он отдаёт 402) -->
+<!-- Fallback карточки, если сервис трофеев лежит -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=retard&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollywooodfx-maker&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retard&theme=tokyo-night&hide_border=true&radius=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hollywooodfx-maker&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/retard">retard</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/hollywooodfx-maker">hollywooodfx-maker</a> with ❤️</i>
 </p>
