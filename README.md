@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я <твоё_имя> 👋</h1>
-<h3 align="center">Backend Developer • Python & C • FastAPI • Databases</h3>
+<h1 align="center">Привет, я retard 👋</h1>
+<h3 align="center">Backend Developer • C • FastAPI • Databases</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -7,15 +7,15 @@
 
 ---
 
-## 💫 About Me:
+## About Me:
 Backend-разработчик. Пишу чистый код на **Python**, люблю низкоуровневую магию на **C** и оптимизацию SQL-запросов.
 Проектирую REST API на **FastAPI**, кэширую через **Redis** и работаю с реляционными базами через **SQLAlchemy**.
 
-- 🔭 Сейчас работаю над **микросервисами на FastAPI + Redis**
-- 🌱 Изучаю **System Design**, **асинхронность** и **оптимизацию БД**
-- 💬 Спроси меня про **Python, C, SQL, FastAPI, Redis**
-- ⚡ Люблю копаться в **Linux** и писать быстрые запросы
-- 📍 Открыт к коллаборациям и интересным проектам
+- Сейчас работаю над **микросервисами на FastAPI + Redis**
+- Изучаю **System Design**, **асинхронность** и **оптимизацию БД**
+- Спроси меня про **Python, C, SQL, FastAPI, Redis**
+- Люблю копаться в **Linux** и писать быстрые запросы
+- Открыт к коллаборациям и интересным проектам
 
 ---
 
@@ -80,10 +80,4 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ## 🏆 Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/твой_ник">твой_ник</a> with ❤️</i>
 </p>
