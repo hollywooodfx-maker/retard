@@ -107,19 +107,15 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ## 🏆 Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,AncientUser,Organizations" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,AncientUser,Organizations" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Experience,Verified,Sponsor,Discussions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Experience,Verified,Sponsor,Discussions" />
 </p>
 
 ---
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/твой_ник">твой_ник</a> with ❤️</i>
-</p>
