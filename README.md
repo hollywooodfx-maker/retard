@@ -20,6 +20,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ---
 
 ## 🌐 Socials:
+
 <p align="left">
   <a href="https://t.me/username" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 999px;" />
@@ -31,7 +32,10 @@ Backend-разработчик. Пишу чистый код на **Python**, л
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 999px;" />
   </a>
   <a href="tel:+70000000000" title="Позвонить">
-    <img src="https://img.shields.io/badge/Call-3DDC84?style=flat-square&logo=android&logoColor=white" height="28" style="border-radius: 999px; padding: 0 10px;" />
+    <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="20" cy="20" r="20" fill="#3DDC84"/>
+      <path fill="#ffffff" d="M27.6 24.9c-.7-.7-1.8-.8-2.5-.1l-1.5 1.3c-.4.3-1 .4-1.4.1-1.5-.9-3-2.4-3.9-3.9-.3-.4-.2-1 .1-1.4l1.3-1.5c.7-.7.6-1.8-.1-2.5l-1.9-1.9c-.7-.7-1.9-.7-2.5.1l-1.1 1.3c-1 1.3-1 3 .1 4.3 1.6 2.1 3.7 4.2 5.8 5.8 1.3 1.1 3 1.1 4.3.1l1.3-1.1c.8-.6.8-1.8.1-2.5l-1.9-1.9z"/>
+    </svg>
   </a>
 </p>
 
@@ -41,8 +45,8 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c style&logoColor=white" style="border-radius: 999px=";" />
+  <img src="borderhttps://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 999px;" />
 </p>
@@ -64,6 +68,18 @@ Backend-разработчик. Пишу чистый код на **Python**, л
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 999px;" />
+</p>
+
+**Browsers**
+<p>
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" style="border-radius: 999px;" />
 </p>
 
 **File Formats**
@@ -89,6 +105,21 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ---
 
 ## 🏆 Trophies:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,AncientUser,Organizations" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Experience,Verified,Sponsor,Discussions" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/твой_ник">твой_ник</a> with ❤️</i>
 </p>
