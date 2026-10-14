@@ -1,4 +1,5 @@
-<h1 align="center">Привет, я hollywooodfx-maker 👋</h1>
+<h1 align="center">Привет, я <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" /> hollywooodfx-maker <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" /></h1>
+
 <h3 align="center">Backend Developer • C • FastAPI • Databases</h3>
 
 <p align="center">
@@ -106,17 +107,10 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 ## 🏆 Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</p>
 
-<!-- Fallback карточки, если сервис трофеев лежит -->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollywooodfx-maker&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hollywooodfx-maker&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
 
 ---
