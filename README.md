@@ -22,13 +22,16 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ## 🌐 Socials:
 <p align="left">
   <a href="https://t.me/username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 999px;" />
   </a>
   <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 999px;" />
   </a>
   <a href="https://github.com/твой_ник">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 999px;" />
+  </a>
+  <a href="tel:+70000000000" title="Позвонить">
+    <img src="https://img.shields.io/badge/Call-3DDC84?style=flat-square&logo=android&logoColor=white" height="28" style="border-radius: 999px; padding: 0 10px;" />
   </a>
 </p>
 
@@ -38,29 +41,37 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 999px;" />
 </p>
 
 **Backend & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" style="border-radius: 999px;" />
 </p>
 
 **Databases & Caching**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" style="border-radius: 999px;" />
 </p>
 
 **OS & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 12px;" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 999px;" />
+</p>
+
+**File Formats**
+<p>
+  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white" style="border-radius: 999px;" />
 </p>
 
 ---
