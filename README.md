@@ -52,51 +52,34 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 ## 💻 Tech Stack:
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 999px;" />
+**Languages & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,mysql,redis,fastapi,sqlalchemy,html,md&perline=8" />
 </p>
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" style="border-radius: 999px;" />
-</p>
-
-**Databases & Caching**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" style="border-radius: 999px;" />
-</p>
-
-**OS & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 999px;" />
+**OS, Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,android,arch,ubuntu,debian,git,github,bash,docker,nginx,vscode,vim,pycharm&perline=7" />
 </p>
 
 **Browsers**
-<p>
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" style="border-radius: 999px;" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="45" title="Chrome" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="45" height="45" title="Firefox" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45" height="45" title="Safari" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45" height="45" title="Opera" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/edge/edge-original.svg" width="45" height="45" title="Edge" />
+  <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" title="Yandex" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" title="Brave" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" title="Tor" />
 </p>
 
 **File Formats**
-<p>
-  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white" style="border-radius: 999px;" />
+<p align="center">
+  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white" />
+  <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white" />
+  <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 ---
