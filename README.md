@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hollywooodfx-maker&label=Profile%20views&color=3DDC84&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/hollywooodfx-maker?label=Followers&style=for-the-badge&color=3DDC84&logo=github" />
+  <img src="https://img.shields.io/github/followers/hollywooodfx-maker?label=Followers&style=for-the-badge&color=3DDC84&logo=github&labelColor=1a1b27" />
 </p>
 
 ---
@@ -32,13 +32,13 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 <p align="left">
   <a href="https://t.me/username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 999px;" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 999px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://github.com/hollywooodfx-maker">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 999px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="tel:+70000000000" title="Позвонить">
     <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
@@ -54,32 +54,32 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 **Languages & Core**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,mysql,redis,fastapi,sqlalchemy,html,md&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,python,mysql,redis,fastapi,sqlalchemy,html,md&perline=8&theme=dark" />
 </p>
 
 **OS, Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,android,arch,ubuntu,debian,git,github,bash,docker,nginx,vscode,vim,pycharm&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,android,arch,ubuntu,debian,git,github,bash,docker,nginx,vscode,vim,pycharm&perline=7&theme=dark" />
 </p>
 
 **Browsers**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="45" title="Chrome" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="45" height="45" title="Firefox" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45" height="45" title="Safari" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45" height="45" title="Opera" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/edge/edge-original.svg" width="45" height="45" title="Edge" />
-  <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" title="Yandex" />
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" title="Brave" />
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" title="Tor" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white&labelColor=1a1b27" />
 </p>
 
 **File Formats**
 <p align="center">
-  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white" />
-  <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white" />
-  <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white" />
-  <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1a1b27" />
 </p>
 
 ---
@@ -98,22 +98,6 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hollywooodfx-maker&theme=tokyonight&hide_border=true&border_radius=16" />
-</p>
-
----
-
-## 🏆 Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</p>
-
----
-
-## 📈 Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hollywooodfx-maker&theme=tokyo-night&hide_border=true&radius=16&area=true" />
 </p>
 
 ---
