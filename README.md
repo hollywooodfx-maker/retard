@@ -28,7 +28,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
   <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 999px;" />
   </a>
-  <a href="https://github.com/твой_ник">
+  <a href="https://github.com/retard">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 999px;" />
   </a>
   <a href="tel:+70000000000" title="Позвонить">
@@ -45,8 +45,8 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c style&logoColor=white" style="border-radius: 999px=";" />
-  <img src="borderhttps://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 999px;" />
 </p>
@@ -77,7 +77,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"-radius: 999px;" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" style="border-radius: 999px;" />
 </p>
@@ -94,12 +94,12 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=retard&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retard&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=tokyonight&hide_border=true&border_radius=16" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retard&theme=tokyonight&hide_border=true&border_radius=16" />
 </p>
 
 ---
@@ -107,15 +107,20 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ## 🏆 Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=retard&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+</p>
+
+<!-- Fallback карточки, если сервис трофеев лежит (сейчас он отдаёт 402) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=retard&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,AncientUser,Organizations" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Experience,Verified,Sponsor,Discussions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retard&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
 
 ---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/retard">retard</a> with ❤️</i>
+</p>
