@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" /> hollywooodfx-maker <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="30" /></h1>
+<h1 align="center">Привет, я <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=400&pause=0&color=FF00AA&center=false&vCenter=true&width=300&lines=hollywooodfx-maker;h0llyw00dfx-m4k3r;h%40llyw%24%24dfx-mak3r;%23%40%24%25%5E%26*%21%40%23%24;h0llyw00dfx-m4k3r" /></h1>
 
 <h3 align="center">Backend Developer • C • FastAPI • Databases</h3>
 
@@ -37,18 +37,18 @@ Backend-разработчик. Пишу чистый код на **Python**, л
       <circle cx="20" cy="20" r="20" fill="#3DDC84"/>
       <path fill="#ffffff" d="M27.6 24.9c-.7-.7-1.8-.8-2.5-.1l-1.5 1.3c-.4.3-1 .4-1.4.1-1.5-.9-3-2.4-3.9-3.9-.3-.4-.2-1 .1-1.4l1.3-1.5c.7-.7.6-1.8-.1-2.5l-1.9-1.9c-.7-.7-1.9-.7-2.5.1l-1.1 1.3c-1 1.3-1 3 .1 4.3 1.6 2.1 3.7 4.2 5.8 5.8 1.3 1.1 3 1.1 4.3.1l1.3-1.1c.8-.6.8-1.8.1-2.5l-1.9-1.9z"/>
     </svg>
-  </a>
+="  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 
-**Languages**
+https://img**Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
+  <img.shields src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
+  <img src.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 999px;" />
 </p>
 
@@ -76,7 +76,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" style="border-radius: 999px;" />
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge4/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" style="border-radius: 999px;" />
@@ -85,7 +85,7 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 **File Formats**
 <p>
-  <img src="https://img.shields.io/badge/.txt-4B5563?style=for-the-badge&logo=files&logoColor=white" style="border-radius: 999px;" />
+  <img src="https://img.shields.io/badge/.txt-B5563?style=for-the-badge&logo=files&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/.png-10B981?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/.jpg-F59E0B?style=for-the-badge&logo=image&logoColor=white" style="border-radius: 999px;" />
   <img src="https://img.shields.io/badge/.md-000000?style=for-the-badge&logo=markdown&logoColor=white" style="border-radius: 999px;" />
@@ -107,7 +107,9 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 
 ## 🏆 Trophies:
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hollywooodfx-maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollywooodfx-maker&theme=tokyonight" />
@@ -116,5 +118,5 @@ Backend-разработчик. Пишу чистый код на **Python**, л
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/hollywooodfx-maker">hollywooodfx-maker</a> with ❤️</i>
+  <i>From <a href="https://github.com/hollywooodfx-maker">hollywooodfx-maker</a></i>
 </p>
